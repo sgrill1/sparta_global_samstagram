@@ -1,0 +1,75 @@
+body{
+  background-color: white;
+  margin: 0;
+  font-family: Helvetica
+}
+.container {
+  width: 800px;
+  margin:auto;
+}
+
+header {
+  background-color: #2B3E63;
+  color: white;
+  height: 200px;
+  text-align: center;
+  overflow: auto;
+}
+main {
+  background-color: maroon;
+  width: 400px;
+  padding: 10px;
+  text-align: center;
+  display: inline-block;
+  border-style: solid;
+  border-color: grey;
+  border-width: thick;
+}
+aside {
+  background-color: #ffd507;
+  width: 344px;
+  height: 49.7%;
+  padding: 10px;
+  display: inline-block;
+  float: right;
+  border-style: solid;
+  border-color: grey;
+  border-width: thick;
+}
+footer {
+  background-color: #ff9b05;
+  overflow: auto;
+  height: 150px;
+  padding: 10px;
+  text-align: center;
+}
+h1 {
+  border-style: solid;
+  border-radius: 5%;
+  width: 10cm;
+  padding: 0.5cm;}
+h2 {
+  text-decoration: underline;
+  color: grey;
+}
+.border {
+  border-style: solid;
+  border-color: grey;
+  border-radius: 5%;
+  width: 355px;
+  padding: 0.5cm;
+  color: grey;
+}
+li {
+  border-style: solid;
+  border-radius: 5%;
+  width: 3cm;
+  padding: 0.5cm;
+  display:inline-block;}
+h4 {
+  text-decoration: underline;
+}
+#party {
+  width:340px;
+  height: 370px;
+}
